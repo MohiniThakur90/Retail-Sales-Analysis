@@ -1,0 +1,311 @@
+Order_ID,Order_Date,Customer_ID,Region,City,Category,Product,Quantity,Unit_Price,Unit_Cost,Discount_Pct,Payment_Mode,Sales_Channel
+ORD1160,2025-08-28,CUST052,East,Bhubaneswar,HOME & KITCHEN,Water Bottle,3,449,240,15,UPI,Online
+ORD1299,2025-12-31,CUST099,North,Agra,Office Supplies,Desk Organizer,2,599,350,5,,Online
+ORD1266,2025-12-02,CUST109,north,Delhi,Clothing,Winter Jacket,2,2999,1900,10,UPI,Online
+ORD1244,19/11/2025,CUST014,North,Lucknow,Furniture,Study Table,1,4999,3400,0,UPI,Offline
+ORD1195,2025-10-02,CUST066,East,Kolkata,Home & Kitchen,Electric Kettle,3,999,620,5,Credit Card,Online
+ORD1216,2025-10-22,CUST083,South,Chennai,Clothing,Winter Jacket,1,2999,1900,15,Net Banking,Online
+ORD1074,2025-04-17,CUST107,South,Bengaluru,Office Supplies,Notebook Pack,4,249,140,10,Cash on Delivery,Online
+ORD1180,15-Sep-2025,CUST007,West,Ahmedabad,Electronics,Power Bank,3,1299,800,0,Debit Card,Online
+ORD1074,2025-04-17,CUST107,South,Bengaluru,Office Supplies,Notebook Pack,4,249,140,10,Cash on Delivery,Online
+ORD1047,16/03/2025,CUST038,North,Delhi,Electronics,Earbuds,2,1499,950,5,UPI,Online
+ORD1011,16/01/2025,CUST071,East,Bhubaneswar,Office Supplies,Printer Paper Ream,1,399,290,10,UPI,Online
+ORD1196,2025-10-02,CUST028,South,Hyderabad,Clothing,Winter Jacket,1,2999,1900,0,Credit Card,Online
+ORD1039,26/02/2025,CUST035,South,Hyderabad,Office Supplies,Stapler Set,1,299,170,10,UPI,Online
+ORD1144,29/07/2025,CUST078,North,Jaipur, furniture ,Study Table,2,4999,3400,0,Debit Card,Online
+ORD1205,2025-10-09,CUST045,North,Agra,Clothing,Winter Jacket,2,2999,1900,0,Net Banking,Offline
+ORD1252,2025-11-25,CUST016,East,Bhubaneswar,HOME & KITCHEN,Dinner Set,1,1999,1250,0,UPI,Online
+ORD1261,29-Nov-2025,CUST077,North,Agra,Clothing,Cotton T-Shirt,2,599,320,5,Credit Card,Online
+ORD1211,13/10/2025,CUST042,South,Chennai,Clothing,Denim Jeans,1,1799,1050,0,Cash on Delivery,Online
+ORD1017,2025-01-29,CUST118,North,Jaipur,Electronics,Power Bank,2,1299,800,5,Cash on Delivery,Online
+ORD1059,2025-04-05,CUST107,North,Agra, office supplies ,Desk Organizer,2,599,350,0,Credit Card,Online
+ORD1048,2025-03-16,CUST081,north,Jaipur,Electronics,Bluetooth Speaker,4,1999,1300,10,Credit Card,Offline
+ORD1186,2025-09-23,CUST025,West,Surat, home & kitchen ,Cookware Set,4,2799,1800,5,Cash on Delivery,Online
+ORD1206,2025-10-10,CUST097,west,Ahmedabad,Clothing,Winter Jacket,1,2999,1900,5,Credit Card,Online
+ORD1282,2025-12-19,CUST104,East,Bhubaneswar,Electronics,Wireless Mouse,-1,699,450,0,UPI,Online
+ORD1268,06-Dec-2025,CUST108,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3299,2200,10,Credit Card,Online
+ORD1255,2025-11-25,CUST065,South,Bengaluru,Office Supplies,Gel Pen Box,3,199,110,20,Debit Card,Online
+ORD1269,2025-12-06,CUST017,West,Surat,Office Supplies,Printer Paper Ream,1,399,290,10,,Online
+ORD1258,2025-11-28,CUST028,North,Lucknow, office supplies ,Notebook Pack,3,249,140,5,Net Banking,Online
+ORD1248,2025-11-22,CUST004,North,Jaipur,Clothing,Denim Jeans,2,1799,1050,5,Debit Card,Offline
+ORD1102,2025-05-16,CUST073,South,Kochi,Furniture,Bookshelf,1,3999,2700,0,Credit Card,Offline
+ORD1135,2025-07-13,CUST048,North,Delhi,Furniture,Bed Side Table,1,2499,1600,5,UPI,Online
+ORD1067,2025-04-12,CUST088,West,SURAT,Home & Kitchen,Mixer Grinder,2,3299,2200,0,Net Banking,Offline
+ORD1103,2025-05-17,CUST078,North,Delhi,Clothing,Kurta,2,1299,720,5,Credit Card,Online
+ORD1015,2025-01-28,CUST059,North,Delhi,Electronics,Earbuds,2,1499,950,10,Credit Card,Offline
+ORD1080,2025-04-21,CUST096,South,Kochi,Electronics,Power Bank,1,1299,800,5,Debit Card,Online
+ORD1026,2025-02-08,CUST113,North,Lucknow,Furniture,Study Table,2,4999,3400,0,UPI,Offline
+ORD1075,2025-04-17,CUST093,West,Ahmedabad,ELECTRONICS,Bluetooth Speaker,2,1999,1300,10,Cash on Delivery,Offline
+ORD1078,20/04/2025,CUST112,West,Pune,Electronics,Earbuds,5,1499,950,0,UPI,Online
+ORD1066,10/04/2025,CUST049,North,Jaipur, clothing ,Kurta,4,1299,720,15,Net Banking,Offline
+ORD1221,25-Oct-2025,CUST059,North,Lucknow,Electronics,Earbuds,-1,1499,950,20,Credit Card,Offline
+ORD1032,17-Feb-2025,CUST083,West,Mumbai,Furniture,Bed Side Table,2,2499,1600,0,UPI,Offline
+ORD1214,2025-10-19,CUST107,North ,Jaipur,Furniture,Study Table,1,4999,3400,5,UPI,Online
+ORD1081,2025-04-25,CUST072,West,Ahmedabad,Electronics,Bluetooth Speaker,2,1999,1300,10,UPI,Offline
+ORD1200,05-Oct-2025,CUST055,North,Delhi,Clothing,Kurta,2,1299,720,10,Credit Card,Offline
+ORD1083,26/04/2025,CUST086,South,Bengaluru, electronics ,Power Bank,1,1299,800,5,Net Banking,Offline
+ORD1198,2025-10-03,CUST058,North,Agra,Clothing,Winter Jacket,1,2999,1900,,Cash on Delivery,Offline
+ORD1068,12/04/2025,CUST116,West,Surat,Home & Kitchen,Mixer Grinder,2,3299,2200,10,UPI,Online
+ORD1006,2025-01-06,CUST009,West,Pune,Electronics,Bluetooth Speaker,1,1999,1300,0,Net Banking,Online
+ORD1169,03/09/2025,CUST095,East ,Patna,Furniture,Bookshelf,1,3999,2700,20,Cash on Delivery,Online
+ORD1137,2025-07-17,CUST024,South,Chennai,Clothing,Winter Jacket,5,2999,1900,5,Cash on Delivery,Online
+ORD1062,2025-04-09,CUST025,,Jaipur,Furniture,Bed Side Table,2,2499,1600,0,Net Banking,Online
+ORD1260,2025-11-29,CUST079,North,Agra,Electronics,Power Bank,3,1299,800,15,Debit Card,Online
+ORD1147,04-Aug-2025,CUST016,West,Mumbai,Clothing,Winter Jacket,2,2999,1900,15,UPI,Online
+ORD1128,2025-07-11,CUST019,South,Bengaluru,Furniture,Study Table,1,4999,3400,15,Cash on Delivery,Online
+ORD1131,13-Jul-2025,CUST079,West,SURAT,Clothing,Denim Jeans,3,1799,1050,5,UPI,Online
+ORD1124,01/07/2025,CUST031,East,Patna,Clothing,Cotton T-Shirt,2,599,320,10,Net Banking,Offline
+ORD1167,02/09/2025,CUST044,East,Kolkata,Electronics,Wireless Mouse,1,699,450,10,Credit Card,Online
+ORD1119,23-Jun-2025,CUST019,North,Jaipur,Furniture,Study Table,1,4999,3400,5,Cash on Delivery,Online
+ORD1191,29-Sep-2025,CUST018,West,Ahmedabad,Clothing,Kurta,1,1299,720,0,Credit Card,Online
+ORD1276,14-Dec-2025,CUST036,north,Jaipur,Furniture,Bed Side Table,1,2499,1600,0,Debit Card,Online
+ORD1122,24-Jun-2025,CUST101,West,Surat,Electronics,Bluetooth Speaker,1,1999,1300,0,UPI,Offline
+ORD1005,05/01/2025,CUST059,East,Guwahati,HOME & KITCHEN,Electric Kettle,1,999,620,15,UPI,Offline
+ORD1115,2025-06-04,CUST102,West,Mumbai,Office Supplies,Stapler Set,1,299,170,5,Debit Card,Online
+ORD1267,04-Dec-2025,CUST044,North,Jaipur,Clothing,Winter Jacket,1,2999,1900,15,Credit Card,Online
+ORD1106,2025-05-21,CUST072,North,Jaipur,Electronics,Earbuds,2,1499,950,0,Cash on Delivery,Offline
+ORD1226,30/10/2025,CUST087,South,Bengaluru,Furniture,Study Table,2,4999,3400,15,Cash on Delivery,Online
+ORD1084,26-Apr-2025,CUST036,South,Chennai,HOME & KITCHEN,Mixer Grinder,3,3299,2200,10,UPI,Online
+ORD1116,16-Jun-2025,CUST058,West,Pune,Furniture,Bed Side Table,2,2499,1600,20,,Offline
+ORD1201,2025-10-05,CUST015,North,Lucknow,Electronics,Bluetooth Speaker,4,1999,1300,10,UPI,Offline
+ORD1150,2025-08-09,CUST102,West,Pune,Clothing,Sports Shoes,1,2499,1500,20,UPI,Offline
+ORD1071,14-Apr-2025,CUST021,North,Delhi, home & kitchen ,Electric Kettle,4,999,620,10,UPI,Offline
+ORD1007,10-Jan-2025,CUST113,East,Guwahati,Clothing,Sports Shoes,1,2499,1500,0,Net Banking,Online
+ORD1246,21-Nov-2025,CUST003,west,Surat,Furniture,Bookshelf,1,3999,2700,10,Cash on Delivery,Offline
+ORD1085,02/05/2025,CUST116,South ,Chennai,Home & Kitchen,Mixer Grinder,5,3299,2200,5,Net Banking,Online
+ORD1165,2025-08-31,CUST047,North,Delhi, office supplies ,Desk Organizer,3,599,350,10,UPI,Online
+ORD1110,2025-05-25,CUST066,South,Hyderabad,Clothing,Cotton T-Shirt,2,599,320,0,UPI,Offline
+ORD1038,24/02/2025,CUST089,South,Kochi,Office Supplies,Notebook Pack,1,249,140,0,UPI,Offline
+ORD1004,04/01/2025,CUST104,North,Lucknow,Clothing,Winter Jacket,3,2999,1900,15,UPI,Online
+ORD1247,21/11/2025,CUST043,East,Patna,Home & Kitchen,Cookware Set,2,2799,1800,5,Credit Card,Offline
+ORD1079,2025-04-21,CUST051,West,Pune,Clothing,Denim Jeans,4,1799,1050,,Net Banking,Offline
+ORD1239,13/11/2025,CUST109,West,Pune,Office Supplies,Desk Organizer,3,599,350,0,Cash on Delivery,Online
+ORD1199,2025-10-03,CUST051,South,Chennai,Clothing,Kurta,1,1299,720,20,Credit Card,Offline
+ORD1264,30/11/2025,CUST049,West,Surat,Office Supplies,Stapler Set,2,299,170,10,Credit Card,Offline
+ORD1065,10-Apr-2025,CUST020,South ,Kochi,Electronics,Bluetooth Speaker,2,1999,1300,10,UPI,Offline
+ORD1231,2025-11-05,CUST072,South,Hyderabad,Electronics,Wireless Mouse,1,699,450,5,Credit Card,Online
+ORD1051,2025-03-20,CUST030,north,Delhi,Home & Kitchen,Water Bottle,2,449,240,0,Net Banking,Offline
+ORD1024,06/02/2025,CUST052,North,Jaipur,Office Supplies,Printer Paper Ream,1,399,290,10,Debit Card,Offline
+ORD1044,2025-03-07,CUST032,North,Delhi,Electronics,Power Bank,5,1299,800,0,UPI,Offline
+ORD1129,13/07/2025,CUST048,,Surat,Home & Kitchen,Mixer Grinder,2,3299,2200,5,UPI,Offline
+ORD1025,08-Feb-2025,CUST083,West,Mumbai,Home & Kitchen,Dinner Set,2,1999,1250,0,Credit Card,Offline
+ORD1140,2025-07-22,CUST050,North,Lucknow,Office Supplies,Printer Paper Ream,3,399,290,15,,Online
+ORD1274,12-Dec-2025,CUST079,West,Pune,Clothing,Denim Jeans,1,1799,1050,5,Debit Card,Online
+ORD1143,27-Jul-2025,CUST082,East,Bhubaneswar,Office Supplies,Desk Organizer,2,599,350,5,Net Banking,Offline
+ORD1281,17/12/2025,CUST052,West,Surat,Office Supplies,Stapler Set,3,299,170,5,UPI,Online
+ORD1294,2025-12-30,CUST014,West,Mumbai,Clothing,Winter Jacket,4,2999,1900,10,UPI,Offline
+ORD1212,2025-10-14,CUST013,South,Hyderabad, furniture ,Bookshelf,2,3999,2700,5,Cash on Delivery,Offline
+ORD1182,18-Sep-2025,CUST037,West,Pune,Furniture,Bed Side Table,2,2499,1600,0,UPI,Offline
+ORD1215,19/10/2025,CUST063,West,Ahmedabad,Electronics,Earbuds,5,1499,950,10,Credit Card,Offline
+ORD1156,21/08/2025,CUST093,South,Chennai,Office Supplies,Stapler Set,1,299,170,10,Cash on Delivery,Online
+ORD1041,2025-03-01,CUST039,West,Ahmedabad,HOME & KITCHEN,Cookware Set,1,2799,1800,5,UPI,Online
+ORD1176,2025-09-12,CUST039,East,BHUBANESWAR,Office Supplies,Gel Pen Box,5,199,110,0,UPI,Offline
+ORD1046,15/03/2025,CUST028,South,Bengaluru,Office Supplies,Notebook Pack,5,249,140,0,UPI,Online
+ORD1208,2025-10-11,CUST093,North,Lucknow, clothing ,Winter Jacket,4,2999,1900,0,Cash on Delivery,Online
+ORD1016,28-Jan-2025,CUST115,North,Jaipur,Office Supplies,Gel Pen Box,1,199,110,10,Cash on Delivery,Offline
+ORD1273,2025-12-11,CUST039,North,Delhi,Clothing,Cotton T-Shirt,-1,599,320,5,UPI,Offline
+ORD1155,2025-08-18,CUST036,South ,Hyderabad,Home & Kitchen,Water Bottle,1,449,240,20,UPI,Online
+ORD1152,14/08/2025,CUST083,,Guwahati,Clothing,Sports Shoes,1,2499,1500,20,UPI,Online
+ORD1107,23/05/2025,CUST074,North,Delhi,Office Supplies,Printer Paper Ream,4,399,290,15,Credit Card,Online
+ORD1190,26/09/2025,CUST021,North,LUCKNOW,Clothing,Cotton T-Shirt,2,599,320,5,Credit Card,Online
+ORD1127,2025-07-04,CUST071,West,Pune,Home & Kitchen,Mixer Grinder,2,3299,2200,15,Net Banking,Offline
+ORD1188,24/09/2025,CUST013,East,Guwahati,Clothing,Sports Shoes,1,2499,1500,5,UPI,Online
+ORD1109,24-May-2025,CUST011,South,KOCHI,Home & Kitchen,Cookware Set,2,2799,1800,5,UPI,Online
+ORD1104,2025-05-17,CUST063,West,Mumbai,FURNITURE,Office Chair,1,6499,4300,10,Credit Card,Online
+ORD1190,26/09/2025,CUST021,North,LUCKNOW,Clothing,Cotton T-Shirt,2,599,320,5,Credit Card,Online
+ORD1058,2025-04-04,CUST108,north,Agra,Furniture,Office Chair,2,6499,4300,0,Cash on Delivery,Online
+ORD1164,30/08/2025,CUST084,North ,Lucknow,Electronics,Smart Watch,2,3499,2400,15,Debit Card,Online
+ORD1076,2025-04-17,CUST075,North,Delhi, home & kitchen ,Mixer Grinder,1,3299,2200,5,UPI,Online
+ORD1279,15/12/2025,CUST017,South,Bengaluru,Office Supplies,Notebook Pack,5,249,140,20,UPI,Offline
+ORD1031,15/02/2025,CUST109,South,Chennai,Electronics,Bluetooth Speaker,1,1999,1300,10,Debit Card,Offline
+ORD1295,2025-12-30,CUST118,south,Bengaluru,Home & Kitchen,Cookware Set,3,2799,1800,0,UPI,Offline
+ORD1289,24-Dec-2025,CUST118,West,Mumbai,Office Supplies,Printer Paper Ream,1,399,290,0,Debit Card,Online
+ORD1043,06/03/2025,CUST015,South,Kochi,Furniture,Office Chair,1,6499,4300,15,Cash on Delivery,Online
+ORD1240,13/11/2025,CUST010,South,Hyderabad,Electronics,Bluetooth Speaker,3,1999,1300,10,Credit Card,Online
+ORD1141,25-Jul-2025,CUST055,East,Bhubaneswar,Home & Kitchen,Dinner Set,1,1999,1250,0,UPI,Offline
+ORD1123,2025-07-01,CUST021,,Mumbai,Clothing,Sports Shoes,1,2499,1500,5,UPI,Offline
+ORD1283,20/12/2025,CUST008,East,Kolkata,Furniture,Bed Side Table,3,2499,1600,15,UPI,Offline
+ORD1245,19/11/2025,CUST062,,Agra,Furniture,Bookshelf,2,3999,2700,0,UPI,Online
+ORD1099,2025-05-08,CUST015,North,Jaipur,Electronics,Wireless Mouse,1,699,450,5,Cash on Delivery,Online
+ORD1292,2025-12-28,CUST100,West,Pune,Office Supplies,Stapler Set,5,299,170,20,UPI,Offline
+ORD1095,2025-05-04,CUST052,West,Pune,Office Supplies,Gel Pen Box,2,199,110,15,Credit Card,Online
+ORD1280,2025-12-16,CUST034,South,Chennai,Clothing,Cotton T-Shirt,1,599,320,0,UPI,Offline
+ORD1158,25-Aug-2025,CUST038,West,Surat,Office Supplies,Notebook Pack,2,249,140,10,Debit Card,Online
+ORD1133,2025-07-13,CUST066,North,JAIPUR,Electronics,Earbuds,2,1499,950,0,Credit Card,Offline
+ORD1090,03/05/2025,CUST061,North,Delhi,Electronics,Earbuds,2,1499,950,10,Credit Card,Online
+ORD1154,2025-08-16,CUST091,North ,Delhi,Office Supplies,Desk Organizer,1,599,350,0,UPI,Offline
+ORD1035,2025-02-19,CUST079,West,Mumbai,ELECTRONICS,Earbuds,1,1499,950,5,Debit Card,Online
+ORD1073,2025-04-16,CUST038,South,Chennai,Furniture,Bookshelf,2,3999,2700,20,UPI,Offline
+ORD1284,20/12/2025,CUST090,North,Delhi,Furniture,Study Table,1,4999,3400,10,UPI,Online
+ORD1234,07/11/2025,CUST033,North ,Jaipur,Electronics,Smart Watch,2,3499,2400,0,Net Banking,Offline
+ORD1230,03/11/2025,CUST014,North,Lucknow,Electronics,Bluetooth Speaker,3,1999,1300,0,UPI,Offline
+ORD1293,29/12/2025,CUST082,West,Pune,Electronics,Earbuds,1,1499,950,5,Cash on Delivery,Offline
+ORD1112,2025-06-02,CUST119,North,Jaipur,Office Supplies,Stapler Set,3,299,170,,Cash on Delivery,Offline
+ORD1013,2025-01-23,CUST102,South,Hyderabad,Office Supplies,Printer Paper Ream,2,399,290,,Cash on Delivery,Offline
+ORD1088,2025-05-02,CUST019,West,Ahmedabad,Clothing,Sports Shoes,1,2499,1500,15,Net Banking,Online
+ORD1163,29-Aug-2025,CUST051,South,Kochi,Office Supplies,Desk Organizer,2,599,350,0,,Offline
+ORD1097,07-May-2025,CUST072,North,Lucknow,Clothing,Sports Shoes,1,2499,1500,20,UPI,Online
+ORD1297,30-Dec-2025,CUST041,South ,Kochi,Clothing,Denim Jeans,1,1799,1050,0,Net Banking,Online
+ORD1042,2025-03-04,CUST014,North,Delhi,OFFICE SUPPLIES,Gel Pen Box,2,199,110,10,Cash on Delivery,Online
+ORD1064,10/04/2025,CUST043,East,Patna,Office Supplies,Notebook Pack,1,249,140,20,Cash on Delivery,Offline
+ORD1162,29/08/2025,CUST093,west,Surat,Electronics,Bluetooth Speaker,3,1999,1300,20,UPI,Offline
+ORD1014,25/01/2025,CUST031,North,Delhi,Furniture,Bookshelf,1,3999,2700,20,Debit Card,Online
+ORD1178,14/09/2025,CUST103,North,Jaipur,Home & Kitchen,Electric Kettle,3,999,620,20,UPI,Online
+ORD1018,31-Jan-2025,CUST065,West,Ahmedabad,Home & Kitchen,Electric Kettle,2,999,620,10,Credit Card,Offline
+ORD1232,06-Nov-2025,CUST053,North ,Delhi,Office Supplies,Desk Organizer,4,599,350,0,UPI,Online
+ORD1238,13-Nov-2025,CUST088,South,Bengaluru,Home & Kitchen,Cookware Set,2,2799,1800,5,Cash on Delivery,Online
+ORD1256,27/11/2025,CUST029,South,Kochi,Office Supplies,Notebook Pack,2,249,140,,UPI,Online
+ORD1052,2025-03-22,CUST023,south,Bengaluru,Home & Kitchen,Water Bottle,2,449,240,10,Credit Card,Offline
+ORD1086,2025-05-02,CUST082,South,Chennai,HOME & KITCHEN,Electric Kettle,1,999,620,0,Credit Card,Online
+ORD1125,02/07/2025,CUST061,West,Surat,Electronics,Bluetooth Speaker,1,1999,1300,15,Cash on Delivery,Online
+ORD1089,2025-05-03,CUST101,West,Mumbai,Clothing,Cotton T-Shirt,1,599,320,5,UPI,Online
+ORD1128,2025-07-11,CUST019,South,Bengaluru,Furniture,Study Table,1,4999,3400,15,Cash on Delivery,Online
+ORD1276,14-Dec-2025,CUST036,north,Jaipur,Furniture,Bed Side Table,1,2499,1600,0,Debit Card,Online
+ORD1187,2025-09-23,CUST073,West,Ahmedabad,Clothing,Cotton T-Shirt,3,599,320,10,Debit Card,Online
+ORD1249,2025-11-22,CUST104,South,KOCHI,Furniture,Study Table,1,4999,3400,10,Cash on Delivery,Online
+ORD1087,2025-05-02,CUST071,West,Pune,HOME & KITCHEN,Dinner Set,1,1999,1250,15,UPI,Online
+ORD1181,16-Sep-2025,CUST099,East,Kolkata,ELECTRONICS,Smart Watch,2,3499,2400,0,UPI,Offline
+ORD1117,2025-06-18,CUST057,South,Bengaluru,Office Supplies,Gel Pen Box,1,199,110,10,Credit Card,Offline
+ORD1146,02/08/2025,CUST051,west,Ahmedabad,Office Supplies,Notebook Pack,2,249,140,5,UPI,Online
+ORD1159,26-Aug-2025,CUST054,north,Jaipur,Furniture,Office Chair,2,6499,4300,0,Credit Card,Online
+ORD1228,2025-11-02,CUST058,North,JAIPUR,Home & Kitchen,Water Bottle,1,449,240,0,Credit Card,Online
+ORD1210,2025-10-12,CUST095,West,Ahmedabad,Furniture,Office Chair,1,6499,4300,0,UPI,Offline
+ORD1218,23/10/2025,CUST120,North,Agra,Office Supplies,Desk Organizer,1,599,350,10,Debit Card,Online
+ORD1235,2025-11-08,CUST043,South,Chennai,Office Supplies,Gel Pen Box,1,199,110,20,Cash on Delivery,Online
+ORD1171,04-Sep-2025,CUST100,East,Kolkata,Office Supplies,Desk Organizer,5,599,350,10,Credit Card,Online
+ORD1126,2025-07-03,CUST054,East,Guwahati,Office Supplies,Desk Organizer,3,599,350,5,Net Banking,Offline
+ORD1177,14-Sep-2025,CUST120,north,Lucknow,Clothing,Winter Jacket,1,2999,1900,0,Net Banking,Offline
+ORD1251,24-Nov-2025,CUST059,North,Jaipur,Office Supplies,Stapler Set,1,299,170,5,Debit Card,Offline
+ORD1072,15-Apr-2025,CUST039,West,Ahmedabad,Clothing,Winter Jacket,3,2999,1900,5,UPI,Online
+ORD1263,2025-11-29,CUST019,South,Bengaluru,HOME & KITCHEN,Cookware Set,3,2799,1800,0,Debit Card,Offline
+ORD1262,29-Nov-2025,CUST013,East,Bhubaneswar,Office Supplies,Stapler Set,5,299,170,10,UPI,Offline
+ORD1204,2025-10-07,CUST085,North,Lucknow,Office Supplies,Desk Organizer,1,599,350,15,Credit Card,Online
+ORD1237,12/11/2025,CUST042,West,Ahmedabad,Furniture,Bed Side Table,5,2499,1600,10,UPI,Offline
+ORD1082,2025-04-25,CUST006,East,Guwahati,Home & Kitchen,Water Bottle,2,449,240,0,Net Banking,Online
+ORD1291,2025-12-27,CUST002,South,Hyderabad, clothing ,Kurta,1,1299,720,5,UPI,Online
+ORD1096,06/05/2025,CUST012,South,Hyderabad,FURNITURE,Study Table,2,4999,3400,5,Cash on Delivery,Online
+ORD1134,2025-07-13,CUST086,North,Delhi,Office Supplies,Gel Pen Box,2,199,110,0,UPI,Offline
+ORD1202,2025-10-05,CUST077,East,Kolkata,Electronics,Wireless Mouse,1,699,450,0,Debit Card,Offline
+ORD1219,2025-10-23,CUST036,South,Bengaluru,Office Supplies,Printer Paper Ream,1,399,290,5,Credit Card,Online
+ORD1298,31/12/2025,CUST018,West,Ahmedabad,Furniture,Bookshelf,1,3999,2700,20,Cash on Delivery,Online
+ORD1138,2025-07-18,CUST006,West,Surat,Electronics,Bluetooth Speaker,1,1999,1300,0,UPI,Online
+ORD1101,2025-05-13,CUST004,North,Agra,Office Supplies,Printer Paper Ream,1,399,290,10,UPI,Online
+ORD1223,26-Oct-2025,CUST110,East,Kolkata,Office Supplies,Printer Paper Ream,2,399,290,0,Net Banking,Offline
+ORD1227,31/10/2025,CUST007,West,Pune,Clothing,Cotton T-Shirt,2,599,320,20,UPI,Online
+ORD1290,2025-12-27,CUST006,North,Lucknow,ELECTRONICS,Wireless Mouse,1,699,450,15,Net Banking,Online
+ORD1197,2025-10-03,CUST120,South,Bengaluru,OFFICE SUPPLIES,Notebook Pack,4,249,140,0,Credit Card,Online
+ORD1285,21/12/2025,CUST094,South,Hyderabad,Electronics,Bluetooth Speaker,3,1999,1300,15,Cash on Delivery,Offline
+ORD1009,13/01/2025,CUST069,North,Agra,Electronics,Earbuds,1,1499,950,20,Debit Card,Offline
+ORD1108,2025-05-24,CUST080,East,Bhubaneswar,Electronics,Wireless Mouse,5,699,450,0,Credit Card,Offline
+ORD1054,2025-03-29,CUST085,South,Bengaluru, home & kitchen ,Water Bottle,2,449,240,5,Net Banking,Offline
+ORD1028,12-Feb-2025,CUST020,West,Mumbai,CLOTHING,Denim Jeans,1,1799,1050,0,UPI,Online
+ORD1222,2025-10-26,CUST071,North,Delhi,Clothing,Cotton T-Shirt,1,599,320,5,Credit Card,Offline
+ORD1061,08/04/2025,CUST075,West,Ahmedabad,Clothing,Kurta,3,1299,720,15,Net Banking,Online
+ORD1093,2025-05-04,CUST082,North,Delhi,Furniture,Study Table,1,4999,3400,0,Credit Card,Offline
+ORD1033,17-Feb-2025,CUST091,West,Mumbai,Office Supplies,Desk Organizer,2,599,350,15,UPI,Online
+ORD1288,2025-12-24,CUST050,North,Delhi,Electronics,Wireless Mouse,1,699,450,5,,Online
+ORD1186,2025-09-23,CUST025,West,Surat, home & kitchen ,Cookware Set,4,2799,1800,5,Cash on Delivery,Online
+ORD1136,15/07/2025,CUST043,West,Ahmedabad,Electronics,Wireless Mouse,3,699,450,10,UPI,Online
+ORD1023,2025-02-05,CUST103,north,Jaipur,Home & Kitchen,Electric Kettle,2,999,620,10,Debit Card,Online
+ORD1063,2025-04-09,CUST050,South,Kochi,Electronics,Earbuds,3,1499,950,15,Net Banking,Offline
+ORD1300,2025-12-31,CUST006,North,Delhi,Electronics,Smart Watch,2,3499,2400,10,UPI,Offline
+ORD1296,30/12/2025,CUST082,South,Hyderabad,Office Supplies,Notebook Pack,2,249,140,5,Cash on Delivery,Online
+ORD1192,30/09/2025,CUST106,West,Ahmedabad,Furniture,Bed Side Table,3,2499,1600,15,UPI,Online
+ORD1019,2025-02-03,CUST108,South,Chennai,Clothing,Winter Jacket,2,2999,1900,10,Debit Card,Offline
+ORD1270,08/12/2025,CUST116,West,Ahmedabad,Electronics,Smart Watch,1,3499,2400,5,Debit Card,Online
+ORD1053,2025-03-26,CUST012,West,Pune,Home & Kitchen,Electric Kettle,2,999,620,5,Credit Card,Online
+ORD1174,2025-09-09,CUST072,East,Guwahati,Home & Kitchen,Mixer Grinder,3,3299,2200,5,UPI,Offline
+ORD1036,22/02/2025,CUST036,South,Hyderabad,Electronics,Bluetooth Speaker,1,1999,1300,0,Cash on Delivery,Offline
+ORD1194,2025-10-02,CUST057,West,Pune,Office Supplies,Gel Pen Box,1,199,110,15,UPI,Online
+ORD1179,2025-09-14,CUST028,West,Mumbai,Furniture,Bed Side Table,2,2499,1600,10,UPI,Online
+ORD1168,03/09/2025,CUST103,North,Jaipur,Office Supplies,Notebook Pack,1,249,140,10,Credit Card,Online
+ORD1121,23/06/2025,CUST040,East,Kolkata,CLOTHING,Winter Jacket,2,2999,1900,0,UPI,Online
+ORD1145,2025-07-29,CUST005,North,Agra,CLOTHING,Kurta,1,1299,720,20,Debit Card,Offline
+ORD1020,2025-02-04,CUST043,South,Chennai,Electronics,Wireless Mouse,3,699,450,0,UPI,Online
+ORD1225,28/10/2025,CUST019,South,Bengaluru,Electronics,Smart Watch,1,3499,2400,0,Cash on Delivery,Offline
+ORD1045,2025-03-15,CUST111,East,Patna,Clothing,Winter Jacket,2,2999,1900,5,Credit Card,Online
+ORD1069,13-Apr-2025,CUST088,North,Lucknow,Furniture,Study Table,1,4999,3400,5,Cash on Delivery,Online
+ORD1077,2025-04-19,CUST113,West,Ahmedabad,Clothing,Denim Jeans,1,1799,1050,10,Net Banking,Online
+ORD1209,12/10/2025,CUST086,South,Bengaluru,Home & Kitchen,Cookware Set,3,2799,1800,,Credit Card,Online
+ORD1113,03-Jun-2025,CUST057,West,Ahmedabad,Home & Kitchen,Water Bottle,1,449,240,0,,Offline
+ORD1124,01/07/2025,CUST031,East,Patna,Clothing,Cotton T-Shirt,2,599,320,10,Net Banking,Offline
+ORD1213,17-Oct-2025,CUST111,West,Ahmedabad, home & kitchen ,Water Bottle,1,449,240,0,UPI,Online
+ORD1012,22/01/2025,CUST039,West ,Pune,Office Supplies,Desk Organizer,2,599,350,15,UPI,Online
+ORD1056,2025-03-31,CUST064,North,Jaipur,Furniture,Study Table,2,4999,3400,10,Debit Card,Offline
+ORD1217,2025-10-22,CUST108,West,MUMBAI,Home & Kitchen,Mixer Grinder,3,3299,2200,5,Debit Card,Online
+ORD1189,2025-09-26,CUST043,South,Chennai, electronics ,Earbuds,1,1499,950,10,UPI,Offline
+ORD1272,11/12/2025,CUST055,South,Kochi,Electronics,Smart Watch,2,3499,2400,20,Debit Card,Online
+ORD1010,2025-01-15,CUST080,West,Pune,Furniture,Office Chair,2,6499,4300,,UPI,Offline
+ORD1253,2025-11-25,CUST055,South,Chennai,Office Supplies,Printer Paper Ream,2,399,290,5,UPI,Offline
+ORD1265,02/12/2025,CUST059,west,Mumbai,Furniture,Bookshelf,3,3999,2700,15,Net Banking,Online
+ORD1030,14-Feb-2025,CUST074,West,Pune,Home & Kitchen,Mixer Grinder,2,3299,2200,20,Debit Card,Offline
+ORD1040,01/03/2025,CUST025,,Ahmedabad,Electronics,Power Bank,5,1299,800,10,UPI,Online
+ORD1105,18/05/2025,CUST098,North ,Delhi,Electronics,Smart Watch,2,3499,2400,10,UPI,Online
+ORD1057,03-Apr-2025,CUST004,North,Agra,Home & Kitchen,Electric Kettle,4,999,620,5,Net Banking,Offline
+ORD1271,2025-12-08,CUST062,East ,Patna,Office Supplies,Notebook Pack,3,249,140,0,UPI,Online
+ORD1022,04/02/2025,CUST049,North,Jaipur,Furniture,Office Chair,2,6499,4300,10,Credit Card,Offline
+ORD1242,2025-11-18,CUST087,West,Ahmedabad,Electronics,Power Bank,1,1299,800,20,Debit Card,Offline
+ORD1092,03-May-2025,CUST014,East,Kolkata,Electronics,Earbuds,4,1499,950,5,Credit Card,Offline
+ORD1229,2025-11-03,CUST080,West,Surat,Electronics,Power Bank,2,1299,800,0,UPI,Online
+ORD1241,15-Nov-2025,CUST077,East,Guwahati,OFFICE SUPPLIES,Desk Organizer,3,599,350,15,Debit Card,Online
+ORD1183,2025-09-18,CUST120,West,Mumbai,Clothing,Denim Jeans,2,1799,1050,10,UPI,Offline
+ORD1214,2025-10-19,CUST107,North ,Jaipur,Furniture,Study Table,1,4999,3400,5,UPI,Online
+ORD1060,06-Apr-2025,CUST102,South,Chennai,Furniture,Study Table,2,4999,3400,0,Cash on Delivery,Online
+ORD1286,2025-12-23,CUST081,North,Jaipur,Electronics,Wireless Mouse,1,699,450,20,UPI,Online
+ORD1173,2025-09-06,CUST089,West,Mumbai,Electronics,Earbuds,1,1499,950,0,UPI,Online
+ORD1233,06/11/2025,CUST035,,Pune,Office Supplies,Gel Pen Box,3,199,110,0,UPI,Online
+ORD1091,2025-05-03,CUST111,East,Guwahati,Office Supplies,Stapler Set,1,299,170,10,Debit Card,Online
+ORD1037,23-Feb-2025,CUST063,North,Delhi,OFFICE SUPPLIES,Gel Pen Box,1,199,110,10,Credit Card,Online
+ORD1157,2025-08-23,CUST099,West,Mumbai,Clothing,Cotton T-Shirt,1,599,320,20,Credit Card,Offline
+ORD1003,04/01/2025,CUST104,South,CHENNAI,Home & Kitchen,Cookware Set,4,2799,1800,20,UPI,Online
+ORD1243,18/11/2025,CUST067,South,Kochi,Electronics,Wireless Mouse,1,699,450,5,Credit Card,Offline
+ORD1049,17/03/2025,CUST010,North,Delhi,Office Supplies,Gel Pen Box,4,199,110,15,UPI,Offline
+ORD1142,2025-07-27,CUST058,,Ahmedabad,Furniture,Office Chair,1,6499,4300,0,Debit Card,Online
+ORD1224,27/10/2025,CUST010,West,Pune,Electronics,Power Bank,2,1299,800,0,Debit Card,Online
+ORD1184,21/09/2025,CUST064,South,Chennai,Home & Kitchen,Mixer Grinder,5,3299,2200,5,UPI,Offline
+ORD1161,2025-08-28,CUST013,South,Hyderabad,Electronics,Wireless Mouse,1,699,450,0,UPI,Offline
+ORD1220,25-Oct-2025,CUST020,South,Kochi,CLOTHING,Denim Jeans,1,1799,1050,0,UPI,Offline
+ORD1100,2025-05-09,CUST098,West,Mumbai,OFFICE SUPPLIES,Desk Organizer,1,599,350,0,UPI,Online
+ORD1236,09/11/2025,CUST089,West,Surat,Furniture,Study Table,1,4999,3400,10,UPI,Online
+ORD1118,19/06/2025,CUST081,South,Hyderabad, furniture ,Bookshelf,2,3999,2700,0,Debit Card,Online
+ORD1002,2025-01-02,CUST046,West,Mumbai,Home & Kitchen,Cookware Set,3,2799,1800,10,Cash on Delivery,Offline
+ORD1114,2025-06-04,CUST048,East,Bhubaneswar,Office Supplies,Desk Organizer,2,599,350,0,Cash on Delivery,Online
+ORD1287,2025-12-23,CUST014,,Kochi,Home & Kitchen,Cookware Set,1,2799,1800,0,Cash on Delivery,Offline
+ORD1175,2025-09-12,CUST046,South,Hyderabad,Home & Kitchen,Electric Kettle,4,999,620,0,Debit Card,Offline
+ORD1254,2025-11-25,CUST108,East,Patna, office supplies ,Printer Paper Ream,1,399,290,0,Credit Card,Online
+ORD1277,2025-12-14,CUST039,East,Bhubaneswar,Clothing,Cotton T-Shirt,4,599,320,10,UPI,Offline
+ORD1185,21-Sep-2025,CUST119,West,AHMEDABAD,Home & Kitchen,Mixer Grinder,1,3299,2200,10,Net Banking,Online
+ORD1166,2025-09-02,CUST071,South,Hyderabad,Office Supplies,Notebook Pack,1,249,140,5,UPI,Offline
+ORD1275,2025-12-13,CUST012,West,Pune,Home & Kitchen,Dinner Set,3,1999,1250,15,Cash on Delivery,Online
+ORD1193,01/10/2025,CUST073,west,Mumbai,Office Supplies,Stapler Set,3,299,170,0,UPI,Offline
+ORD1001,01/01/2025,CUST006,West,Mumbai,Clothing,Sports Shoes,2,2499,1500,5,UPI,Offline
+ORD1055,2025-03-30,CUST052,South,Kochi, electronics ,Smart Watch,1,3499,2400,20,Cash on Delivery,Offline
+ORD1029,14/02/2025,CUST078,North ,Agra,Office Supplies,Desk Organizer,3,599,350,0,Net Banking,Offline
+ORD1207,2025-10-11,CUST072,North,Agra,Clothing,Cotton T-Shirt,2,599,320,20,Credit Card,Online
+ORD1050,19-Mar-2025,CUST035,East,Bhubaneswar,Office Supplies,Printer Paper Ream,3,399,290,10,Credit Card,Online
+ORD1021,04/02/2025,CUST053,North,Agra,Furniture,Study Table,2,4999,3400,0,UPI,Online
+ORD1177,14-Sep-2025,CUST120,north,Lucknow,Clothing,Winter Jacket,1,2999,1900,0,Net Banking,Offline
+ORD1034,2025-02-18,CUST106,South,Hyderabad,Office Supplies,Stapler Set,3,299,170,5,Debit Card,Online
+ORD1172,05-Sep-2025,CUST106,North,Jaipur,Electronics,Power Bank,3,1299,800,5,Debit Card,Online
+ORD1008,2025-01-12,CUST041,West,Ahmedabad,ELECTRONICS,Power Bank,2,1299,800,10,Credit Card,Offline
+ORD1243,18/11/2025,CUST067,South,Kochi,Electronics,Wireless Mouse,1,699,450,5,Credit Card,Offline
+ORD1107,23/05/2025,CUST074,North,Delhi,Office Supplies,Printer Paper Ream,4,399,290,15,Credit Card,Online
+ORD1098,2025-05-08,CUST046,South,Kochi,Home & Kitchen,Mixer Grinder,5,3299,2200,10,UPI,Online
+ORD1111,28-May-2025,CUST020,South,Chennai,Electronics,Bluetooth Speaker,1,1999,1300,0,Cash on Delivery,Offline
+ORD1070,13-Apr-2025,CUST030,North,Jaipur,Office Supplies,Gel Pen Box,2,199,110,5,Credit Card,Online
+ORD1130,2025-07-13,CUST102,south,Bengaluru,Furniture,Office Chair,2,6499,4300,10,UPI,Online
+ORD1259,2025-11-28,CUST105,West,Pune,FURNITURE,Office Chair,2,6499,4300,0,UPI,Offline
+ORD1151,10-Aug-2025,CUST009,North,Lucknow,Office Supplies,Stapler Set,1,299,170,,UPI,Offline
+ORD1027,11/02/2025,CUST045,West,Ahmedabad,Clothing,Winter Jacket,1,2999,1900,5,UPI,Online
+ORD1094,04/05/2025,CUST015,South,HYDERABAD,Office Supplies,Stapler Set,2,299,170,10,Cash on Delivery,Offline
+ORD1149,2025-08-09,CUST071,South,Bengaluru,Clothing,Kurta,2,1299,720,10,Credit Card,Offline
+ORD1120,23-Jun-2025,CUST102,East,Guwahati, electronics ,Wireless Mouse,1,699,450,5,UPI,Online
+ORD1139,2025-07-20,CUST007,South,Kochi,Electronics,Bluetooth Speaker,1,1999,1300,15,Cash on Delivery,Online
+ORD1170,03/09/2025,CUST043,South ,Kochi,Clothing,Kurta,2,1299,720,0,Debit Card,Offline
+ORD1203,06-Oct-2025,CUST100,North,Delhi,Furniture,Study Table,2,4999,3400,10,UPI,Online
+ORD1148,05-Aug-2025,CUST010,South,Hyderabad,Clothing,Winter Jacket,1,2999,1900,0,Credit Card,Offline
+ORD1278,2025-12-14,CUST031,north,Jaipur,Furniture,Office Chair,2,6499,4300,10,Credit Card,Online
+ORD1257,2025-11-27,CUST071,South,Chennai, clothing ,Sports Shoes,3,2499,1500,10,Credit Card,Online
+ORD1132,2025-07-13,CUST037,North,Agra,Office Supplies,Stapler Set,2,299,170,0,UPI,Online
+ORD1250,23/11/2025,CUST111,West,Pune,Furniture,Study Table,2,4999,3400,0,Credit Card,Offline
+ORD1153,15/08/2025,CUST017,South,Chennai,Home & Kitchen,Dinner Set,2,1999,1250,0,Credit Card,Offline
